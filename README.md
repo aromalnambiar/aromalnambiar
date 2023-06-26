@@ -49,7 +49,7 @@
 
 
 ![](https://github-trophies.vercel.app/?username=aromalnambiar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<img align="right" height="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+<img  height="190" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
