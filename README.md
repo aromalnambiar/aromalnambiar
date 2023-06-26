@@ -62,5 +62,5 @@
 
 
 <div align="center">
-  <img src="https://giphy.com/gifs/13HgwGsXF0aiGY" alt="Your Image">
+  <img src="https://i.imgur.com/50NA7vr.gif" alt="Your Image">
 </div>
