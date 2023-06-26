@@ -46,7 +46,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aromalnambiar&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-<<img align="right" height="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+<<img align="right" height="100" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 ![](https://github-trophies.vercel.app/?username=aromalnambiar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
