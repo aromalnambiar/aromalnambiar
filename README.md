@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **About Vargrant, Kubernetes, AWS, Graphql etc**
 
-- 👨‍💻 All of my projects are available at [aromalnambiar.in](aromalnambiar.in)
+- 👨‍💻 All of my projects are available at [aromalnambiar.in](https://www.aromalnambiar.in)
 
 - 💬 Ask me about **Latest Technology, React Native, Next.js ,TypeScript, Django, Jupernotenook etc**
 
