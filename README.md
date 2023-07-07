@@ -27,8 +27,6 @@
 
 # 💫About Me :
 
-<img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
-
 - 🔭 I’m currently working on **Imiot Technolabs**
 
 - 🌱 I’m currently learning **About Vargrant, Kubernetes, AWS, Graphql etc**
