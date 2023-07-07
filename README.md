@@ -2,29 +2,32 @@
 
 ![header](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)
 
-<h1 align="center">Hi (Namaste) 👋, I'm Aromal Nambiar</h1>
+<h1 align="center" style="border: none;" > Hi (Namaste) 👋, I'm Aromal Nambiar</h1>
+
+<img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
 
  </p>
  
- <hr/>
+ <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <div align="center">
 <img src="https://i.giphy.com/media/UTek0q3N8osh8agH4Y/giphy.webp" alt="img" align="center" />
  </div>
 
 
- <hr/>
+ <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
  
 <h3 align="center">🌟 Experienced software engineer with a passion for innovative business solutions. Strong problem-solving skills, cutting-edge technology expertise. Ready to contribute. 🔧📈🔬🚀</h3>
 
+<img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 # 💫About Me :
 
-<img align="right" alt="coding" width="250" src="https://raw.githubusercontent.com/03prashantpk/03prashantpk/main/assets/keep_coding.gif">
+<img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 - 🔭 I’m currently working on **Imiot Technolabs**
 
