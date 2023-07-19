@@ -7,7 +7,7 @@
 <img  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Computer+Science+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;Sodtware+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
 
  </p>
  
